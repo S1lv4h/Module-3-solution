@@ -1,0 +1,31 @@
+/* Custom CSS for centering navbar items */
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar .navbar-collapse > ul {
+    display: inline-block;
+    float: none;
+}
+
+/* Keep your existing styles */
+.menu-item {
+    font-size: 24px; /* Adjust the size as needed */
+    text-align: center;
+    margin: 20px 0; /* Adds some space around the text */
+}
+
+.content-section {
+    min-height: 1000px;
+    background-color: #f0f0f0;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
