@@ -1,4 +1,4 @@
-/* Custom CSS for centering navbar items */
+
 .navbar .navbar-collapse {
     text-align: center;
 }
@@ -14,11 +14,11 @@
     float: none;
 }
 
-/* Keep your existing styles */
+
 .menu-item {
-    font-size: 24px; /* Adjust the size as needed */
+    font-size: 24px; 
     text-align: center;
-    margin: 20px 0; /* Adds some space around the text */
+    margin: 20px 0; 
 }
 
 .content-section {
